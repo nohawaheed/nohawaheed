@@ -1,8 +1,9 @@
 ![](https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif)
 
-## Hi I'm Noha 👋
+# Hi I'm Noha 👋
 
-:computer: 𝑱𝒖𝒏𝒊𝒐𝒓 𝑭𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓 🌱 𝒄𝒖𝒓𝒓𝒆𝒏𝒕𝒍𝒚 𝒍𝒆𝒂𝒓𝒏𝒊𝒏𝒈 𝒃𝒂𝒄𝒌-𝒆𝒏𝒅 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕.
+:computer: **Junior Front-end Engineer 🌱 currently learning back-end development.**
+
 
 ## 🚀 Technologies & Tools 
 
@@ -19,6 +20,7 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+
 
 ## 📫 Reach me on 
 
