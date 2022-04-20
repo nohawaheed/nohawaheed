@@ -2,7 +2,7 @@
 
 # Hi I'm Noha 👋
 
-:computer: **Junior Front-end Engineer 🌱 currently learning back-end development.**
+:computer: **Junior Front-end Developer 🌱 currently learning back-end development.**
 
 
 ## 🚀 Technologies & Tools 
