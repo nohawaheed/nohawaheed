@@ -20,6 +20,9 @@
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
 ## 📫 Reach me on 
